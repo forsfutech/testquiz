@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Pintar Mengetik & Komputer SD",
+  "description": "Aplikasi kuis interaktif ramah anak untuk tes mengetik, menyambung kalimat, tebak gambar kelas 1 SD, dan tebak ikon komputer kelas 2 SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
